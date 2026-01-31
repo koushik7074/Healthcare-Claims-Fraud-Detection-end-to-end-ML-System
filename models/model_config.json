@@ -1,0 +1,10 @@
+{
+    "model_name": "logistic_regression",
+    "decision_threshold": 0.5,
+    "business_objective": "maximize fraud recall with acceptable precision",
+    "metrics": {
+        "roc_auc": 0.93,
+        "fraud_recall": 0.85,
+        "fraud_precision": 0.41
+    }
+}
