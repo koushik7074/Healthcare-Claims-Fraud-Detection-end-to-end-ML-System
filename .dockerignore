@@ -1,0 +1,7 @@
+notebooks/
+data/
+dashboard/
+__pycache__/
+*.ipynb
+.env
+venv/
