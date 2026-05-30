@@ -4,6 +4,8 @@
 
 An end-to-end, production-ready machine learning system that ranks healthcare providers by fraud risk using behavioral feature engineering, interpretable ML models, and a deployed REST API inference pipeline.
 
+<img width="776" height="499" alt="image" src="https://github.com/user-attachments/assets/da203a67-be50-4851-ada7-749aecd0d79e" />
+
 ---
 
 ## Table of Contents
